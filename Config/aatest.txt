@@ -2,6 +2,6 @@ payload:
   - '172.217.163.42'
   - '+.bitget.+'
   - '+.openai.+'
-  - 'services.googleapis.cn'
+  - '+.googleapis.+'
   - 'connectivitycheck.gstatic.com'
   - 'wallhaven.cc'
