@@ -6,3 +6,4 @@ payload:
  - 'wallhaven.cc'
  # google play
  - 'services.googleapis.cn'
+ - '+.doprax.+'
