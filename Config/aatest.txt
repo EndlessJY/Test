@@ -4,6 +4,5 @@ payload:
  - '+.openai.+'
  - 'connectivitycheck.gstatic.com'
  - 'wallhaven.cc'
- # google play
  - 'services.googleapis.cn'
  - '+.doprax.+'
