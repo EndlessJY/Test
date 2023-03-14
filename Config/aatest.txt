@@ -6,3 +6,4 @@ payload:
  - 'wallhaven.cc'
  - 'services.googleapis.cn'
  - '+.doprax.+'
+ - '+.midjourney.+'
