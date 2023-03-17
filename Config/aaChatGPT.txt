@@ -1,2 +1,2 @@
 payload:
- - '+.openai.+'
+ - '+.openai.com'
